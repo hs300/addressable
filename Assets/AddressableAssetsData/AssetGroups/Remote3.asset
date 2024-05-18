@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote3
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote3
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 79ea417ad0082b74b93aa6186d2cfce7
+  m_SerializeEntries:
+  - m_GUID: 78f7436ea745448f48e4ef7cd0aa0f65
+    m_Address: Assets/Texture/pass_reward_prg_num_bg_yellow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ead9d80760a040d0b70e86939528e32
+    m_Address: Assets/Texture/pass_reward_prg_num_bg_gray.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e57f9725042d4e3aa9ec75259c6c3c0
+    m_Address: Assets/Texture/pass_reward_icon_clover.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b5ca3519d4074c88afd1edc401c2aba
+    m_Address: Assets/Texture/pass_reward_icon_chest_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3d033d017db07ab41abcef6d4b500fa0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5af058638a5955543b408d242d4b29c7, type: 2}
+    - {fileID: 11400000, guid: dee58cd8eae217e44a16e475d91d3c31, type: 2}

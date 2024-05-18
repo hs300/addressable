@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: remo4
+  m_EditorClassIdentifier: 
+  m_GroupName: remo4
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8983aa4d54ff7ee4c89c4302a93bffce
+  m_SerializeEntries:
+  - m_GUID: 738e8fb3e96094fd2b305fe307e2ea96
+    m_Address: Assets/Texture/pass_reward_icon_rune.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 06f2a7cfcd32242219ed1317bd660d83
+    m_Address: Assets/Texture/pass_reward_icon_book.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95155d9989fb244f88f9656cbd4eecbc
+    m_Address: Assets/Texture/pass_reward_icon_ax.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89caffa740fc3490a8701183368f5cb1
+    m_Address: Assets/Texture/levelup_icon_highlight.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3d033d017db07ab41abcef6d4b500fa0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: eefe5c21e4eff52478ef2b2ceab353bb, type: 2}
+    - {fileID: 11400000, guid: d1155d6d7649f084fa46e0517edc6f5c, type: 2}

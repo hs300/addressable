@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote1
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d2866fb7fc3bbf34686e94b4af849c4e
+  m_SerializeEntries:
+  - m_GUID: 7898208bc763a45b7a72df205c9f0755
+    m_Address: Assets/Texture/icon_golden_pass.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7fd6e0462dd244573a18576c320addbc
+    m_Address: Assets/Texture/pass_reward_icon_glove.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3d033d017db07ab41abcef6d4b500fa0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 98a898bc932825a4d9f36a0e5f83fca1, type: 2}
+    - {fileID: 11400000, guid: 8cabe9209e3ac8e4183b0b6ee50a83be, type: 2}

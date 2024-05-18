@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Re2
+  m_EditorClassIdentifier: 
+  m_GroupName: Re2
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1176a2e45b8b4fa46865531525f4c5da
+  m_SerializeEntries:
+  - m_GUID: b4a4b8f5c2d49459891adf4008f22aeb
+    m_Address: Assets/Texture/level_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 115c4f46eb9974054913829ac1bcabec
+    m_Address: Assets/Texture/icon_normal_pass.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fbf4e52eb58442c59fad6daec8a85e6
+    m_Address: Assets/Texture/pass_icon_check.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd9d2a266a4664cd692ce7c032361041
+    m_Address: Assets/Texture/pass_reward_icon_gold.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3d033d017db07ab41abcef6d4b500fa0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7cf2cb18f19889f418933366fc9ddd9f, type: 2}
+    - {fileID: 11400000, guid: ebc3451d22dd05b41a9dfc6983a8bc8c, type: 2}
